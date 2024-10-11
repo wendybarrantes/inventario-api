@@ -3,7 +3,7 @@ const router = express.Router();
 
 
 //importar el controlador
-const controlador_de_productos = require('../controllers/productosControllers');
+const controladorProductos = require('../controllers/productosControllers');
 
 
 //rutas CRUD 
